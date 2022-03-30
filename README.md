@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-**samira9707/samira9707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. I’m highly interested in leadership and management related tasks along with technical ones. I’m an excellent interpersonal as well as have good communication skills. I do enjoy high pressure team environment.
 
 Here are some ideas to get you started:
 
@@ -13,3 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=samira9707&show_icons=true&theme=radical" width="500" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samira9707&langs_count=10" width="300" >
