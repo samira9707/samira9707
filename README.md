@@ -2,7 +2,7 @@
 
 I’m an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. I’m highly interested in leadership and management related tasks along with technical ones. I’m an excellent interpersonal as well as have good communication skills. I do enjoy high pressure team environment.
 
-Here are some ideas to get you started:
+Info:
 
 - 🔭 I’m currently working on an IoT based agro application
 - 🌱 I’m currently learning python
